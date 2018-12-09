@@ -1,0 +1,29 @@
+commit 1981f5383786e8bac35d2cda987e5003f13e6d91
+Author: Karina188 <karinamendes16@hotmail.com>
+Date:   Sat Dec 8 18:19:55 2018 +0100
+
+    added ignore file
+
+commit 601d329bd753f4495c12a5e6cca05327ea55fefd
+Author: Karina188 <karinamendes16@hotmail.com>
+Date:   Sat Dec 8 17:58:07 2018 +0100
+
+    file.txt
+
+commit 30f47360f859693fd364f333ae0b7bb4471ecbed
+Author: Karina188 <karinamendes16@hotmail.com>
+Date:   Sat Dec 8 17:52:27 2018 +0100
+
+    christmas.txt
+
+commit e689797536b0750c915a7b7121f9f7fe82b93260
+Author: Karina188 <karinamendes16@hotmail.com>
+Date:   Sat Dec 8 17:49:04 2018 +0100
+
+    christmas.txt
+
+commit 814b18cdb3a40e57bf41946e2506d214f60e2c2c
+Author: Karina188 <karinamendes16@hotmail.com>
+Date:   Sat Dec 8 17:47:09 2018 +0100
+
+    this is the first change
